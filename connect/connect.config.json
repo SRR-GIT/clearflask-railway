@@ -1,5 +1,5 @@
 {
-  "parentDomain": "ton-sous-domaine.railway.app",
+  "parentDomain": "clearflask-connect-production.up.railway.app",
   "disableAutoFetchCertificate": true,
   "forceRedirectHttpToHttps": true
 }
