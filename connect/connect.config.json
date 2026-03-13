@@ -1,0 +1,5 @@
+{
+  "parentDomain": "ton-sous-domaine.railway.app",
+  "disableAutoFetchCertificate": true,
+  "forceRedirectHttpToHttps": true
+}
